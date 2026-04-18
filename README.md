@@ -105,7 +105,7 @@ const nico = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NICKO472&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://trophy.benkou.dev/?username=NICKO472&theme=dark" />
 
 </div>
 
