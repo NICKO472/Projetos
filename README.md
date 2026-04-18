@@ -66,7 +66,7 @@ const nico = {
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 ![Lua](https://img.shields.io/badge/LUA-blue?logo=lua)
 
 ### 🎨 Design & Tools
