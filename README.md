@@ -111,45 +111,11 @@ const nico = {
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Atualmente trabalhando em:
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NICKO472&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NICKO472/NICKO472/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NICKO472/NICKO472/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NICKO472/NICKO472/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=NICKO472&repo=Projetos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/NICKO472)
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- 🌐 Desenvolvendo projetos **Full-Stack** com JavaScript moderno
-- 🎨 Aprimorando skills em **UI/UX Design** com CorelDraw
-- 📚 Estudando **TypeScript** e **Next.js** a fundo
+- 🌐 Desenvolvendo projetos **Full-Stack** com JavaScript
+- 🎨 Aprimorando skills em **Design** com CorelDraw
+- 📚 Estudando **JavaScript** e **Python** a fundo
 
 ---
 
