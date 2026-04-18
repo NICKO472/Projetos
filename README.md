@@ -153,13 +153,13 @@ const nico = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Entre em contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasferreira) (INDISPONIVEL NO MOMENTO)
+[![LinkedIn (INDISPONIVEL NO MOMENTO)](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onikinhoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://nicolasferreira.dev) (EM DESENVOLVIMENTO!)
+[![Portfolio (EM DESENVOLVIMENTO!)](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)]
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickoplay13@email.com)
 
 </div>
