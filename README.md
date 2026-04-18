@@ -148,8 +148,7 @@ const nico = {
 ## 🎯 Currently Working On
 
 - 🌐 Desenvolvendo projetos **Full-Stack** com JavaScript moderno
-- 🎮 Criando games indies com **Unity & C#**
-- 🎨 Aprimorando skills em **UI/UX Design** com Figma
+- 🎨 Aprimorando skills em **UI/UX Design** com CorelDraw
 - 📚 Estudando **TypeScript** e **Next.js** a fundo
 
 ---
@@ -158,11 +157,10 @@ const nico = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasferreira)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolasferreira)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://nicolasferreira.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasferreira) (INDISPONIVEL NO MOMENTO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onikinhoo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://nicolasferreira.dev) (EM DESENVOLVIMENTO!)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickoplay13@email.com)
 
 </div>
 
@@ -180,6 +178,6 @@ const nico = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Obrigado%20pelo%20apoio!%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
