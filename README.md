@@ -52,34 +52,34 @@ const nico = {
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=reactlogoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 ![Lua](https://img.shields.io/badge/LUA-blue?logo=lua)
 
 ### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![CorelDraw](https://img.shields.io/badge/CorelDraw-00FF00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-00FF00?logo=adobeillustrator&logoColor=white)
 
 ### 🛠️ Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?elogo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 
 ---
 
