@@ -39,10 +39,11 @@ const nico = {
                "Game Developer", "Game Designer", "UI/UX Designer"],
   mainStack:  ["JavaScript", "HTML5", "CSS3", "Node.js", "React"],
   gameTools:  ["Unity", "C#", "Godot"],
-  design:     ["Figma", "Photoshop", "Illustrator"],
+  design:     ["Figma", "Photoshop", "Illustrator", "CorelDraw"],
   learning:   ["TypeScript", "Three.js", "Next.js"],
   hobbies:    ["Gaming 🎮", "Design 🎨", "Open Source 🌍"],
   motto:      "Build. Break. Learn. Repeat. 🔁"
+  dilema:     "VibeCoders não deveriam existir."
 };
 ```
 
