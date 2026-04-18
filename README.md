@@ -105,7 +105,7 @@ const nico = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NicoFerreira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=NICKO472&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -115,7 +115,7 @@ const nico = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoFerreira&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NICKO472&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
