@@ -139,11 +139,9 @@ const nico = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoFerreira&repo=SEU-PROJETO-AQUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/NicoFerreira)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=NICKO472&repo=Projetos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9)](https://github.com/NICKO472)
 
 </div>
-
-> 💬 **Dica:** Substitua `SEU-PROJETO-AQUI` pelos nomes dos seus repositórios reais para exibir os cards dos projetos.
 
 ---
 
