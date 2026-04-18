@@ -95,7 +95,7 @@ const nico = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoFerreira&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NICKO472&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
