@@ -105,7 +105,7 @@ const nico = {
 
 <div align="center">
 
-<img src="https://trophy.benkou.dev/?username=NICKO472&theme=dark" />
+<img src="https://trophy.benkou.dev/?username=NICKO472&theme=onedark" />
 
 </div>
 
